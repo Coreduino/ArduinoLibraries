@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C++", "C++", "{5F5705A4-0E3F-41CC-BEEB-7CD1C8B58732}"
+	ProjectSection(SolutionItems) = preProject
+		RTC.cpp = RTC.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Headers", "Headers", "{F9B9C97C-F28D-4882-9776-B318C3A6D9FE}"
+	ProjectSection(SolutionItems) = preProject
+		RTC.h = RTC.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

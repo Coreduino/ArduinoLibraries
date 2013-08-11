@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C++", "C++", "{DC03DEC4-C4B7-4748-8767-2DDE7CACA5C1}"
+	ProjectSection(SolutionItems) = preProject
+		font.c = font.c
+		Rainbowduino.cpp = Rainbowduino.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Headers", "Headers", "{056ECB91-BB4F-46F7-91A7-062CE2F5C96C}"
+	ProjectSection(SolutionItems) = preProject
+		Rainbowduino.h = Rainbowduino.h
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{367023A2-5CEA-47C6-82A0-86CD359C168C}"
+	ProjectSection(SolutionItems) = preProject
+		examples\Cube1\Cube1.ino = examples\Cube1\Cube1.ino
+		examples\Cube2\Cube2.ino = examples\Cube2\Cube2.ino
+		examples\RainStorm\RainStorm.ino = examples\RainStorm\RainStorm.ino
+		..\..\..\processing-2.0b8\Software\LEDCube\Rainbowduino\examples\RandomColours\RandomColours.ino = ..\..\..\processing-2.0b8\Software\LEDCube\Rainbowduino\examples\RandomColours\RandomColours.ino
+		examples\SunnyDay\SunnyDay.ino = examples\SunnyDay\SunnyDay.ino
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

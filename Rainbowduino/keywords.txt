@@ -1,0 +1,33 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Rainbowduino	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+blankDisplay	KEYWORD2
+clearDisplay	KEYWORD2
+drawChar	KEYWORD2
+drawCircle	KEYWORD2
+drawHorizontalLine	KEYWORD2
+drawLine	KEYWORD2
+drawRectangle	KEYWORD2
+drawVerticalLine	KEYWORD2
+fillCircle	KEYWORD2
+fillRectangle	KEYWORD2
+init	KEYWORD2
+init_timer1	KEYWORD2
+latchData	KEYWORD2
+send16bitData	KEYWORD2
+setCube	KEYWORD2
+setPixelXY	KEYWORD2
+setPixelZXY	KEYWORD2
+setZPlane	KEYWORD2
+switchOnDrive	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+#NFC_DEMO_DEBUG	LITERAL1
